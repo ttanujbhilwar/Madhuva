@@ -655,4 +655,3 @@ footer {
   <div class="container">
     <div class="reveal">
       <p class="section-tag">What we're building</p>
-      
